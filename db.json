@@ -1,0 +1,28 @@
+{
+  "loans": [
+    {
+      "id": 1,
+      "properties": [
+        {
+          "address": "123 Main St",
+          "city": "Philadelphia",
+          "state": "PA",
+          "zip": "19103"
+        },
+        {
+          "address": "28 Walnut St., Philadelphia",
+          "city": "Philadelphia",
+          "state": "PA",
+          "zip": "19103"
+        }
+      ],
+      "entityProfile": {
+        "name": "John Doe",
+        "ein": "123456789"
+      },
+      "loanType": "Rate and Term",
+      "status": "In review",
+      "submitted": "2021-09-01"
+    }
+  ]
+}
