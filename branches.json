@@ -1,0 +1,18 @@
+[
+    {
+        "id": "d25755f7-af2c-4560-865e-80ec56e96d03",
+        "name": "Branch A"
+    },
+    {
+        "id": "18309ee2-4b9b-449f-b412-c86736309f08",
+        "name": "Branch B"
+    },
+    {
+        "id": "e1ac451d-8910-499e-80b3-84f20981fbb7",
+        "name": "Branch C"
+    },
+    {
+        "id": "fd59ec26-20d4-4077-872f-30c728a0fd67",
+        "name": "Branch D"
+    }
+]
